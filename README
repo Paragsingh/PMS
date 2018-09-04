@@ -1,1 +1,20 @@
-This is a git repo for PMS
+PMS : Patient Management System
+
+We'll use this application to accomplish the following
+
+Front-end
+
+1. Health practioner Login
+2. Paitent's data entry by health practioner
+3. Patient's follow-up's entries by Practioners
+4. Track the paitent's details/Procedures/reports etc
+5. Log the adverse events
+6. Print the details
+
+
+Back-end
+
+1. Admin login
+2. Add and manage health ppractioner's data
+3. Add and Manage master data i.e Hospitals details etc
+4. Generate Reports
